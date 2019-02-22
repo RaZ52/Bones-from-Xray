@@ -7,6 +7,10 @@ App create 3D model of bones from xray projections
 - Wheel - scroll down after clicking "Render" button then you see the model
 - **You need to select at least one area on every picture**
 
+## Run
+- To run it you will need a Qt with MinGW compiler
+- Maybe you will need to link your compiler with openGL library
+
 ## How it works:
 ### Example 1
 <img src="https://github.com/RaZ52/Bones-from-Xray/blob/master/ex1.png" width="50%" height="50%"> <img src="https://github.com/RaZ52/Bones-from-Xray/blob/master/ex1_1.png" width="35%" height="35%">
